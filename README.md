@@ -1,7 +1,7 @@
 # Zeros
 
 ## Task
-
+//
 Implement function `zeros(str)`, that for given expression will return the number of zeros in the end of number.
 Expression contains only factorials of numbers and multiplying signs, like: `zeros('5!*7!*6!!*7!!')`
 `5! === 1 * 2 * 3 * 4 * 5`
